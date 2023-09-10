@@ -1,3 +1,13 @@
 body {
-    background: blue;
+    background: gray;
+    padding:0px 20px;
+
+}
+#alinphoto {
+    height: 275px;
+}
+p {
+   text-align: justify;
+}
+section {
 }
